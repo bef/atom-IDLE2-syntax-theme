@@ -1,7 +1,7 @@
 {
   "name": "IDLE2-syntax-theme",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "slightly modified version of the well known IDLE theme",
   "keywords": [
     "syntax",
